@@ -1,0 +1,180 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color:#e8110f;
+    padding: 1% 3%;  
+}
+.navbar-brand{
+    font-size: 3rem;
+    font-weight: 700;
+    text-decoration: underline;
+    margin: 0% 4%;
+}
+.nav-item{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.button{
+    background-color:#e8110f ;
+    margin: 2% 7%;
+    width: 8%;
+    height: 45px;
+    font-family:'Roboto', sans-serif;
+    border: 5%;
+    font-size: 1.2rem;
+    display: inline-block;
+}
+.button:hover{
+     background-color:  black;
+    }
+.upper{
+    margin: 2% 0%;
+}
+.heading{
+    text-align: center;
+    text-decoration: dotted;
+    font-weight: 800;
+    text-decoration: underline;
+    font-size: 5rem;
+}
+ul li a{
+    color: black;
+   
+}
+ul li a:hover{
+    color: white;
+}
+.h2{
+    color: black;
+    font-weight: 700;
+    font-family:'Roboto', sans-serif;
+    text-decoration: underline;
+    font-size: 3rem;
+}
+.news1{
+    background-color: #e1eaff;
+    margin: 0% 5%;
+    text-align: center;
+    
+}
+.para{
+    color: black;
+    font-weight: 400;
+    font-family:'Roboto', sans-serif;
+}
+.img{
+    width: 55%;
+    margin: 0% 50%;
+    border-color: black;
+    display: inline-block;
+}
+.para2{
+    display:inline-block;
+}
+.card-title{
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: white;   
+}
+.card-title:hover{
+    color: #ffdd37;
+}
+.card-text1{
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    color:#ffdd37;
+}
+.card-text1:hover{
+    color: white;
+}
+.card{
+    text-align: center;
+}
+.card-text{
+    font-family:'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+.news2{
+    background-color: #e1eaff;
+    margin: 0% 10%;
+    text-align: center;
+}
+.card1{
+    background-color:#002866;
+}
+.card2{
+    background-color:#e8110f;
+}
+.card3{
+    background-color: #002866;
+
+}
+.news3{
+    background-color: #e1eaff;
+    margin: 0% 10%;
+    text-align: center;
+}
+.image1{
+    width: 50%;
+}
+.news4{
+    background-color:#e1eaff ;
+    text-align: center;
+    margin: 0% 10%;
+}
+.card4{
+    background-color: #e8110f;
+}
+.newpara{
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.news5{
+    background-color: #e1eaff;
+    margin: 0% 10%;
+    text-align: center;
+}
+.card-text5{
+    color: black;
+    font-size: 2.5rem;
+    font-weight: 900;
+    text-decoration: underline;
+}
+.card-text5:hover{
+    color: aqua;
+}
+.card5{
+    background-color:#011e29;
+}
+.card-text05{
+    background-color: #011e29;
+    color:white;
+    font-size: 1.2rem;
+    font-family:'Roboto', sans-serif;
+
+}
+.btn-linkedin {
+    background: #0E76A8;
+    border-radius: 5;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #084461;
+  }
+  .btn-linkedin:link, .btn-linkedin:visited {
+    color: #fff;
+  }
+  .btn-linkedin:active, .btn-linkedin:hover {
+    background: #084461;
+    color: #fff;
+  }
+.contact{
+    color: black;
+    text-decoration: underline;
+  }
